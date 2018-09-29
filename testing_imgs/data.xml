@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+  <name>Power Cubes</name>
+  <comment>Images of power cubes.</comment>
+  <images>
+  <image file='frame0.jpg'>
+    <box top='684' left='177' width='624' height='672'/>
+  </image>
+  <image file='frame108.jpg'>
+    <box top='204' left='216' width='861' height='954'/>
+  </image>
+  <image file='frame12.jpg'>
+    <box top='705' left='222' width='612' height='663'/>
+  </image>
+  <image file='frame132.jpg'>
+    <box top='216' left='507' width='333' height='306'/>
+  </image>
+  <image file='frame144.jpg'>
+    <box top='195' left='315' width='762' height='1017'/>
+  </image>
+  <image file='frame156.jpg'>
+    <box top='84' left='318' width='759' height='1089'/>
+  </image>
+  <image file='frame192.jpg'>
+    <box top='285' left='564' width='513' height='993'/>
+  </image>
+  <image file='frame228.jpg'>
+    <box top='0' left='189' width='888' height='1125'/>
+  </image>
+  <image file='frame24.jpg'>
+    <box top='642' left='234' width='594' height='672'/>
+  </image>
+  <image file='frame240.jpg'>
+    <box top='9' left='69' width='1005' height='1194'/>
+  </image>
+  <image file='frame252.jpg'>
+    <box top='0' left='147' width='930' height='1269'/>
+  </image>
+  <image file='frame264.jpg'>
+    <box top='81' left='78' width='996' height='1287'/>
+  </image>
+  <image file='frame276.jpg'>
+    <box top='162' left='0' width='1074' height='1290'/>
+  </image>
+  <image file='frame288.jpg'>
+    <box top='129' left='3' width='1047' height='1365'/>
+  </image>
+  <image file='frame300.jpg'>
+    <box top='3' left='3' width='1005' height='1389'/>
+  </image>
+  <image file='frame348.jpg'>
+    <box top='3' left='6' width='996' height='1470'/>
+  </image>
+  <image file='frame36.jpg'>
+    <box top='618' left='219' width='573' height='675'/>
+  </image>
+  <image file='frame360.jpg'>
+    <box top='57' left='6' width='984' height='1398'/>
+  </image>
+  <image file='frame372.jpg'>
+    <box top='84' left='6' width='948' height='1335'/>
+  </image>
+  <image file='frame384.jpg'>
+    <box top='153' left='3' width='927' height='1215'/>
+  </image>
+  <image file='frame396.jpg'>
+    <box top='180' left='6' width='942' height='1119'/>
+  </image>
+  <image file='frame408.jpg'>
+    <box top='204' left='6' width='942' height='1047'/>
+  </image>
+  <image file='frame420.jpg'>
+    <box top='312' left='3' width='858' height='972'/>
+  </image>
+  <image file='frame432.jpg'>
+    <box top='300' left='6' width='636' height='972'/>
+  </image>
+  <image file='frame444.jpg'>
+    <box top='45' left='3' width='600' height='984'/>
+  </image>
+  <image file='frame456.jpg'>
+    <box top='66' left='6' width='702' height='885'/>
+  </image>
+  <image file='frame468.jpg'>
+    <box top='108' left='114' width='696' height='840'/>
+  </image>
+  <image file='frame48.jpg'>
+    <box top='684' left='189' width='609' height='636'/>
+  </image>
+  <image file='frame480.jpg'>
+    <box top='228' left='171' width='651' height='774'/>
+  </image>
+  <image file='frame492.jpg'>
+    <box top='303' left='162' width='600' height='723'/>
+  </image>
+  <image file='frame504.jpg'>
+    <box top='354' left='159' width='540' height='690'/>
+  </image>
+  <image file='frame516.jpg'>
+    <box top='453' left='198' width='507' height='648'/>
+  </image>
+  <image file='frame528.jpg'>
+    <box top='468' left='363' width='492' height='639'/>
+  </image>
+  <image file='frame540.jpg'>
+    <box top='312' left='441' width='633' height='990'/>
+  </image>
+  <image file='frame552.jpg'>
+    <box top='387' left='402' width='672' height='1023'/>
+  </image>
+  <image file='frame564.jpg'>
+    <box top='423' left='336' width='738' height='1068'/>
+  </image>
+  <image file='frame576.jpg'>
+    <box top='414' left='288' width='786' height='1152'/>
+  </image>
+  <image file='frame588.jpg'>
+    <box top='360' left='270' width='807' height='1176'/>
+  </image>
+  <image file='frame60.jpg'>
+    <box top='783' left='210' width='672' height='702'/>
+  </image>
+  <image file='frame600.jpg'>
+    <box top='345' left='162' width='915' height='1179'/>
+  </image>
+  <image file='frame612.jpg'>
+    <box top='345' left='114' width='960' height='1185'/>
+  </image>
+  <image file='frame624.jpg'>
+    <box top='348' left='144' width='930' height='1152'/>
+  </image>
+  <image file='frame636.jpg'>
+    <box top='360' left='114' width='951' height='1140'/>
+  </image>
+  <image file='frame648.jpg'>
+    <box top='345' left='66' width='1008' height='1164'/>
+  </image>
+  <image file='frame660.jpg'>
+    <box top='363' left='27' width='1041' height='1152'/>
+  </image>
+  <image file='frame672.jpg'>
+    <box top='375' left='36' width='1011' height='1125'/>
+  </image>
+  <image file='frame684.jpg'>
+    <box top='363' left='36' width='1011' height='1125'/>
+  </image>
+  <image file='frame696.jpg'>
+    <box top='291' left='51' width='1011' height='1158'/>
+  </image>
+  <image file='frame708.jpg'>
+    <box top='306' left='15' width='1023' height='1170'/>
+  </image>
+  <image file='frame72.jpg'>
+    <box top='645' left='342' width='720' height='714'/>
+  </image>
+  <image file='frame720.jpg'>
+    <box top='306' left='6' width='1008' height='1200'/>
+  </image>
+  <image file='frame732.jpg'>
+    <box top='339' left='6' width='1011' height='1206'/>
+  </image>
+  <image file='frame744.jpg'>
+    <box top='363' left='6' width='1020' height='1233'/>
+  </image>
+  <image file='frame756.jpg'>
+    <box top='402' left='3' width='963' height='1263'/>
+  </image>
+  <image file='frame792.jpg'>
+    <box top='80' left='188' width='824' height='638'/>
+  </image>
+  <image file='frame804.jpg'>
+    <box top='2' left='132' width='1042' height='714'/>
+  </image>
+  <image file='frame816.jpg'>
+    <box top='112' left='172' width='1048' height='604'/>
+  </image>
+  <image file='frame828.jpg'>
+    <box top='112' left='166' width='1076' height='606'/>
+  </image>
+  <image file='frame84.jpg'>
+    <box top='477' left='318' width='759' height='783'/>
+  </image>
+  <image file='frame840.jpg'>
+    <box top='48' left='134' width='1144' height='670'/>
+  </image>
+  <image file='frame864.jpg'>
+    <box top='2' left='100' width='1086' height='714'/>
+  </image>
+  <image file='frame900.jpg'>
+    <box top='4' left='358' width='512' height='628'/>
+  </image>
+  <image file='frame912.jpg'>
+    <box top='0' left='464' width='590' height='624'/>
+  </image>
+  <image file='frame924.jpg'>
+    <box top='0' left='426' width='650' height='686'/>
+  </image>
+  <image file='frame936.jpg'>
+    <box top='2' left='430' width='616' height='638'/>
+  </image>
+  <image file='frame948.jpg'>
+    <box top='0' left='116' width='826' height='718'/>
+  </image>
+  <image file='frame96.jpg'>
+    <box top='360' left='207' width='867' height='876'/>
+  </image>
+  <image file='frame972.jpg'>
+    <box top='0' left='740' width='228' height='358'/>
+  </image>
+  </images>
+</dataset>
